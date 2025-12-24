@@ -96,7 +96,7 @@ const game3Rounds: RoundData[] = [
   {
     image: loc13,
     name: "Jiehkkevárri, Lyngen",
-    coords: { lat: 69.469269990387, lng: 10.7731434507 }, //69.46926999038729, 19.87760958704683
+    coords: { lat: 69.469269990387, lng: 19.877609587046 }, //69.46926999038729, 19.87760958704683
   },
   {
     image: loc14,
